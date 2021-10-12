@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          My App
+          Someone else made these changes - App
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
